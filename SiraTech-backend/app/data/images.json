@@ -1,0 +1,83 @@
+[
+  {
+    "id": "img-diriyah-1",
+    "landmark_id": "lm-diriyah",
+    "title": "At-Turaif mudbrick walls at sunset",
+    "url": "https://example-cdn.sirategide.sa/images/diriyah-1.jpg",
+    "era": "Restored, depicting 18th century originals",
+    "source": "Saudi Heritage Commission (placeholder)",
+    "caption": "Restored Najdi-style mudbrick facades along the Wadi Hanifah escarpment."
+  },
+  {
+    "id": "img-masmak-1",
+    "landmark_id": "lm-masmak",
+    "title": "Masmak Fortress main entrance",
+    "url": "https://example-cdn.sirategide.sa/images/masmak-1.jpg",
+    "era": "1865",
+    "source": "Riyadh Municipality Archive (placeholder)",
+    "caption": "The iconic wooden gate said to still bear the mark of a spear thrown during the 1902 recapture."
+  },
+  {
+    "id": "img-hegra-1",
+    "landmark_id": "lm-hegra",
+    "title": "Qasr al-Farid tomb facade",
+    "url": "https://example-cdn.sirategide.sa/images/hegra-1.jpg",
+    "era": "1st century CE",
+    "source": "Royal Commission for AlUla (placeholder)",
+    "caption": "The 'Lonely Castle', the largest of Hegra's carved Nabataean tombs, left unfinished."
+  },
+  {
+    "id": "img-hegra-2",
+    "landmark_id": "lm-hegra",
+    "title": "Nabataean tomb carvings detail",
+    "url": "https://example-cdn.sirategide.sa/images/hegra-2.jpg",
+    "era": "1st century CE",
+    "source": "Royal Commission for AlUla (placeholder)",
+    "caption": "Close-up detail of eagle and urn motifs carved above a tomb entrance."
+  },
+  {
+    "id": "img-elephant-rock-1",
+    "landmark_id": "lm-elephant-rock",
+    "title": "Jabal AlFil at golden hour",
+    "url": "https://example-cdn.sirategide.sa/images/elephant-rock-1.jpg",
+    "era": "Natural formation",
+    "source": "Royal Commission for AlUla (placeholder)",
+    "caption": "The 52-meter sandstone arch resembling an elephant, lit by the setting sun."
+  },
+  {
+    "id": "img-albalad-1",
+    "landmark_id": "lm-albalad",
+    "title": "Coral-stone tower houses with mashrabiya",
+    "url": "https://example-cdn.sirategide.sa/images/albalad-1.jpg",
+    "era": "19th century construction",
+    "source": "Jeddah Historic District Program (placeholder)",
+    "caption": "Traditional wooden mashrabiya lattice windows on a Red Sea coral-stone facade."
+  },
+  {
+    "id": "img-shubra-1",
+    "landmark_id": "lm-shubra-palace",
+    "title": "Shubra Palace inner courtyard",
+    "url": "https://example-cdn.sirategide.sa/images/shubra-1.jpg",
+    "era": "1905",
+    "source": "Taif Municipality Archive (placeholder)",
+    "caption": "The ornate marble courtyard blending Ottoman and Indian architectural influences."
+  },
+  {
+    "id": "img-rijal-1",
+    "landmark_id": "lm-rijal-almaa",
+    "title": "Rijal Almaa stone towers",
+    "url": "https://example-cdn.sirategide.sa/images/rijal-1.jpg",
+    "era": "Centuries old",
+    "source": "Asir Development Authority (placeholder)",
+    "caption": "Fortified stone tower houses overlooking terraced mountain slopes."
+  },
+  {
+    "id": "img-qatif-1",
+    "landmark_id": "lm-qatif-oasis",
+    "title": "Palm groves of the Qatif Oasis",
+    "url": "https://example-cdn.sirategide.sa/images/qatif-1.jpg",
+    "era": "Ancient, present-day photo",
+    "source": "Eastern Province Heritage Archive (placeholder)",
+    "caption": "Dense date palm groves fed by natural springs, cultivated for millennia."
+  }
+]

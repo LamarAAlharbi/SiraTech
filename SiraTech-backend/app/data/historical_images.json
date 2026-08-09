@@ -1,0 +1,104 @@
+[
+  {
+    "id": "hist-diriyah-1",
+    "landmark_id": "lm-diriyah",
+    "title": "[SAMPLE] At-Turaif district — general view",
+    "image_path": "static/history-samples/hist-diriyah-1.jpg",
+    "image_url": null,
+    "year_or_period": "Unverified — placeholder only",
+    "source": "Sample placeholder record — no archival source has been verified yet",
+    "source_url": null,
+    "description": "Placeholder entry standing in for a future verified historical photograph of At-Turaif District. No real image, date, or archival source is attached to this record yet — it exists only to show the data shape the See the Past feature expects.",
+    "tags": ["architecture"],
+    "rights": {
+      "license": "Unknown",
+      "usage_note": "Sample data only. Not cleared for any use. Do not publish or treat as authentic until replaced by the content team with a verified, rights-cleared image and citation."
+    },
+    "is_sample": true
+  },
+  {
+    "id": "hist-diriyah-2",
+    "landmark_id": "lm-diriyah",
+    "title": "[SAMPLE] Daily life near Wadi Hanifah — placeholder",
+    "image_path": "static/history-samples/hist-diriyah-2.jpg",
+    "image_url": null,
+    "year_or_period": "Unverified — placeholder only",
+    "source": "Sample placeholder record — no archival source has been verified yet",
+    "source_url": null,
+    "description": "Placeholder entry reserved for a future verified image depicting daily life around Diriyah. Not a real photograph and not linked to any real archive.",
+    "tags": ["daily_life"],
+    "rights": {
+      "license": "Unknown",
+      "usage_note": "Sample data only. Not cleared for any use. Do not publish or treat as authentic until replaced by the content team with a verified, rights-cleared image and citation."
+    },
+    "is_sample": true
+  },
+  {
+    "id": "hist-masmak-1",
+    "landmark_id": "lm-masmak",
+    "title": "[SAMPLE] Masmak Fortress gate — placeholder",
+    "image_path": "static/history-samples/hist-masmak-1.jpg",
+    "image_url": null,
+    "year_or_period": "Unverified — placeholder only",
+    "source": "Sample placeholder record — no archival source has been verified yet",
+    "source_url": null,
+    "description": "Placeholder entry reserved for a future verified historical photograph of the Masmak Fortress gate, referenced in accounts of the 1902 recapture of Riyadh. This record itself makes no factual claim about that event — it only demonstrates the record shape.",
+    "tags": ["architecture", "event"],
+    "rights": {
+      "license": "Unknown",
+      "usage_note": "Sample data only. Not cleared for any use. Do not publish or treat as authentic until replaced by the content team with a verified, rights-cleared image and citation."
+    },
+    "is_sample": true
+  },
+  {
+    "id": "hist-hegra-1",
+    "landmark_id": "lm-hegra",
+    "title": "[SAMPLE] Early expedition photograph, Hegra — placeholder",
+    "image_path": "static/history-samples/hist-hegra-1.jpg",
+    "image_url": null,
+    "year_or_period": "Unverified — placeholder only",
+    "source": "Sample placeholder record — no archival source has been verified yet",
+    "source_url": null,
+    "description": "Placeholder entry reserved for a future verified early-expedition-era photograph of Hegra's tomb facades. Not a real image; no expedition, archive, or photographer is actually attached to this record.",
+    "tags": ["architecture"],
+    "rights": {
+      "license": "Unknown",
+      "usage_note": "Sample data only. Not cleared for any use. Do not publish or treat as authentic until replaced by the content team with a verified, rights-cleared image and citation."
+    },
+    "is_sample": true
+  },
+  {
+    "id": "hist-albalad-1",
+    "landmark_id": "lm-albalad",
+    "title": "[SAMPLE] Traditional dress in Al-Balad — placeholder",
+    "image_path": "static/history-samples/hist-albalad-1.jpg",
+    "image_url": null,
+    "year_or_period": "Unverified — placeholder only",
+    "source": "Sample placeholder record — no archival source has been verified yet",
+    "source_url": null,
+    "description": "Placeholder entry reserved for a future verified historical photograph showing traditional Hejazi dress in Al-Balad. Not a real photograph and not linked to any real archive.",
+    "tags": ["fashion"],
+    "rights": {
+      "license": "Unknown",
+      "usage_note": "Sample data only. Not cleared for any use. Do not publish or treat as authentic until replaced by the content team with a verified, rights-cleared image and citation."
+    },
+    "is_sample": true
+  },
+  {
+    "id": "hist-albalad-2",
+    "landmark_id": "lm-albalad",
+    "title": "[SAMPLE] Souk gathering, Al-Balad — placeholder",
+    "image_path": "static/history-samples/hist-albalad-2.jpg",
+    "image_url": null,
+    "year_or_period": "Unverified — placeholder only",
+    "source": "Sample placeholder record — no archival source has been verified yet",
+    "source_url": null,
+    "description": "Placeholder entry reserved for a future verified historical photograph of a market gathering in Al-Balad. Not a real image; exists only to demonstrate the See the Past record shape and its 'event' tag.",
+    "tags": ["event", "daily_life"],
+    "rights": {
+      "license": "Unknown",
+      "usage_note": "Sample data only. Not cleared for any use. Do not publish or treat as authentic until replaced by the content team with a verified, rights-cleared image and citation."
+    },
+    "is_sample": true
+  }
+]

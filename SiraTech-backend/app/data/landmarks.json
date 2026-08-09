@@ -1,0 +1,82 @@
+[
+  {
+    "id": "lm-diriyah",
+    "location_id": "loc-riyadh",
+    "name_en": "At-Turaif District, Diriyah",
+    "name_ar": "حي الطريف بالدرعية",
+    "category": "UNESCO Heritage Site",
+    "era": "18th century",
+    "unesco": true,
+    "description": "The original home of the Saudi royal family and the first capital of the First Saudi State, built in distinctive Najdi mudbrick architectural style."
+  },
+  {
+    "id": "lm-masmak",
+    "location_id": "loc-riyadh",
+    "name_en": "Masmak Fortress",
+    "name_ar": "قصر المصمك",
+    "category": "Fort",
+    "era": "1865",
+    "unesco": false,
+    "description": "A clay and mudbrick fort in central Riyadh, famous as the site of King Abdulaziz's 1902 recapture of the city, an event that led to the founding of modern Saudi Arabia."
+  },
+  {
+    "id": "lm-hegra",
+    "location_id": "loc-alula",
+    "name_en": "Hegra (Mada'in Salih)",
+    "name_ar": "الحِجر (مدائن صالح)",
+    "category": "UNESCO Heritage Site",
+    "era": "1st century BCE - 1st century CE",
+    "unesco": true,
+    "description": "Saudi Arabia's first UNESCO World Heritage Site, featuring over 100 monumental Nabataean tombs carved into sandstone outcrops."
+  },
+  {
+    "id": "lm-elephant-rock",
+    "location_id": "loc-alula",
+    "name_en": "Elephant Rock (Jabal AlFil)",
+    "name_ar": "جبل الفيل",
+    "category": "Natural Landmark",
+    "era": "Natural formation",
+    "unesco": false,
+    "description": "A towering sandstone rock formation naturally shaped like an elephant, one of AlUla's most recognizable natural landmarks."
+  },
+  {
+    "id": "lm-albalad",
+    "location_id": "loc-jeddah",
+    "name_en": "Al-Balad Historic District",
+    "name_ar": "جدة التاريخية (البلد)",
+    "category": "UNESCO Heritage Site",
+    "era": "7th century onward",
+    "unesco": true,
+    "description": "Jeddah's historic old town, known for multi-story coral-stone tower houses with ornate wooden mashrabiya windows, and its role as a historic pilgrimage gateway."
+  },
+  {
+    "id": "lm-shubra-palace",
+    "location_id": "loc-taif",
+    "name_en": "Shubra Palace",
+    "name_ar": "قصر شبرا",
+    "category": "Palace",
+    "era": "1905",
+    "unesco": false,
+    "description": "A historic palace in Taif blending Ottoman, Indian, and local architectural styles, once used as a royal residence and now a cultural museum."
+  },
+  {
+    "id": "lm-rijal-almaa",
+    "location_id": "loc-abha",
+    "name_en": "Rijal Almaa Heritage Village",
+    "name_ar": "قرية رجال ألمع",
+    "category": "Heritage Village",
+    "era": "Centuries old",
+    "unesco": false,
+    "description": "A striking stone-tower village in the Asir mountains, known for its multi-story fortified houses decorated with traditional Al-Qatt Al-Asiri art."
+  },
+  {
+    "id": "lm-qatif-oasis",
+    "location_id": "loc-dammam",
+    "name_en": "Qatif Oasis",
+    "name_ar": "واحة القطيف",
+    "category": "Heritage Site",
+    "era": "Ancient",
+    "unesco": false,
+    "description": "One of the oldest continuously inhabited oases in the region, tied to the ancient Dilmun civilization and Eastern Arabia's trading history."
+  }
+]

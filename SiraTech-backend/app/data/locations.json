@@ -1,0 +1,56 @@
+[
+  {
+    "id": "loc-riyadh",
+    "name_en": "Riyadh",
+    "name_ar": "الرياض",
+    "region": "Riyadh Region",
+    "latitude": 24.7136,
+    "longitude": 46.6753,
+    "description": "The capital of Saudi Arabia, home to the historic Diriyah district and the Masmak Fortress, blending Najdi heritage with a modern skyline."
+  },
+  {
+    "id": "loc-alula",
+    "name_en": "AlUla",
+    "name_ar": "العلا",
+    "region": "Medina Region",
+    "latitude": 26.6089,
+    "longitude": 37.9219,
+    "description": "A vast open-air museum in northwest Saudi Arabia, home to Hegra, Saudi Arabia's first UNESCO World Heritage Site, and thousands of years of Arabian civilization."
+  },
+  {
+    "id": "loc-jeddah",
+    "name_en": "Jeddah",
+    "name_ar": "جدة",
+    "region": "Makkah Region",
+    "latitude": 21.4858,
+    "longitude": 39.1925,
+    "description": "The historic gateway to Makkah on the Red Sea coast, known for the UNESCO-listed Al-Balad old town with its coral-stone tower houses."
+  },
+  {
+    "id": "loc-taif",
+    "name_en": "Taif",
+    "name_ar": "الطائف",
+    "region": "Makkah Region",
+    "latitude": 21.2703,
+    "longitude": 40.4158,
+    "description": "A mountain city known as the 'City of Roses', historically a summer retreat with terraced gardens and Ottoman-era architecture."
+  },
+  {
+    "id": "loc-abha",
+    "name_en": "Abha",
+    "name_ar": "أبها",
+    "region": "Asir Region",
+    "latitude": 18.2164,
+    "longitude": 42.5053,
+    "description": "The capital of the Asir Region, set in the Sarawat Mountains, known for terraced villages, misty highlands, and vibrant Asiri folk art."
+  },
+  {
+    "id": "loc-dammam",
+    "name_en": "Dammam",
+    "name_ar": "الدمام",
+    "region": "Eastern Province",
+    "latitude": 26.4207,
+    "longitude": 50.0888,
+    "description": "A major Eastern Province city near ancient Dilmun civilization sites and the historic Qatif oasis."
+  }
+]
