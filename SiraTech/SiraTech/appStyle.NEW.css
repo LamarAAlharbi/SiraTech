@@ -1,0 +1,119 @@
+:root {
+  --saudi-green: #0a2d1d;
+  --saudi-green-card: #123d2a;
+  --sand-bg: #f4f1e8;
+  --surface-card: #ffffff;
+  --accent-purple: #cbb4fc;
+  --text-dark: #1a1d1e;
+}
+
+body {
+  margin: 0;
+  background-color: var(--sand-bg);
+  font-family: system-ui, -apple-system, sans-serif;
+  color: var(--text-dark);
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: var(--surface-card);
+  border-bottom: 1px solid #e0ddd5;
+}
+
+.brand {
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: var(--saudi-green);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.hero-banner {
+  background-color: var(--saudi-green);
+  color: #ffffff;
+  padding: 3rem 2rem;
+}
+
+.hero-banner .eyebrow {
+  color: var(--accent-purple);
+  font-size: 0.8rem;
+  letter-spacing: 2px;
+  font-weight: 600;
+}
+
+.hero-banner h1 {
+  font-size: 2.5rem;
+  font-family: Georgia, serif;
+  margin: 0.5rem 0;
+}
+
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.5rem;
+  padding: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+@media (max-width: 1024px) {
+  .dashboard-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.map-card, .active-site-card {
+  background: var(--surface-card);
+  border-radius: 16px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.saudi-map-svg {
+  width: 100%;
+  height: 220px;
+  background: #e9e4d7;
+  border-radius: 12px;
+}
+
+.land-mass {
+  fill: #dcd5c3;
+  stroke: #b5ac97;
+}
+
+.map-pin {
+  cursor: pointer;
+}
+
+.map-pin .pin-dot {
+  fill: var(--saudi-green);
+}
+
+.map-pin.active .pin-dot {
+  fill: #e05a47;
+  r: 12px;
+}
+
+.site-pills {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.pill-btn {
+  border: none;
+  background: #e9e4d7;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.pill-btn.active {
+  background: var(--saudi-green);
+  color: white;
+}
