@@ -32,4 +32,6 @@ Siratech was developed as an AI-focused project exploring how **Generative AI ca
 **Lamar Alharbi — Backend**
 **Dalia Albarag — Frontend**
 
+[![Siratech Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=eC-Gns6h0j8)
+
 🏆 Developed for the **Tuwaiq Hackathon**
